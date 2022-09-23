@@ -20,6 +20,8 @@ __结构型模式__:
 | [组合模式](patterns/structural/composite.py) | 让客户端统一对待单个对象和组合 |
 | [装饰器模式](patterns/structural/decorator.py) | 动态的给一个对象添加一些额外的职责 |
 | [桥接模式](patterns/structural/bridge.py) | 将抽象部分与其实现部分分离，使它们都可以独立的变化 |
+| [适配器模式](patterns/structural/adapter.py) | 将一个接口转换为客户希望的另一个接口，使得原本不兼容的类可以一起工作 |
+
 
 __行为型模式__:
 
