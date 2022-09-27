@@ -28,6 +28,6 @@ __行为型模式__:
 
 | 模式名称 | 描述 |
 |:-------:| ----------- |
-|  |  |
+| [策略模式](behavioral/strategy.ipynb) | 定义一系列算法，每个独立封装，并使它们可相互替换。策略让算法独立于使用它的客户端而变化。 |
 
 https://github.com/faif/python-patterns
