@@ -32,4 +32,5 @@ __行为型模式__:
 | [状态模式](behavioral/state.ipynb) | 允许一个对象在其内部状态改变时改变它的行为，对象看起来像是修改了它的类 |
 | [观察者模式](behavioral/observer.ipynb) | 定义对象间的一种一对多的依赖关系，当一个对象的状态发生改变时，所以依赖于它的对象都得到通知并被自动更新 |
 
+https://refactoring.guru/design-patterns
 https://github.com/faif/python-patterns
